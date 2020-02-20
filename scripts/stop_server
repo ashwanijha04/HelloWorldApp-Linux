@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "service nginx stop"
-
+service nginx stop
